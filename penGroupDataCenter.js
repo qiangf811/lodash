@@ -1,5 +1,4 @@
 /**
- * @Description：皮套笔迹-分组互动数据存储中心
  * @Author: 强峰 <fengqiang>
  * @Date:   2018-06-08 09:23
  * @Email:  fengqiang@iflyek.com
